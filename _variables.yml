@@ -1,0 +1,33 @@
+author: Lucy D'Agostino McGowan
+
+instructor:
+  name: Dr. Lucy D'Agostino McGowan 
+  name_no_title: Lucy D'Agostino McGowan
+  email: mcgowald@wfu.edu
+  url: "https://www.lucymcgowan.com"
+  twitter: LucyStats
+  github: LucyMcGowan
+  office: "Manchester 342"
+  officehrs: "Bookable"
+  appointment_url: https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3Ph3xXz-71yrt5GiV82TmGeFbnWLUxV-2yiGF9EqelwZZ1u1mwOeO9QQH7-e9m9AM72Xj4VRJ2
+  
+
+course:
+  title: "Seminar in Mathematical Business Analysis"
+  subtitle: "The main purpose of this seminar is to develop the capability to apply quantitative knowledge to real and ill-defined problems. It tries to bridge the gap between the theory of quantitative decision approaches such as management science/operations research, information systems, and statistics (now mainly collected in the Business Analytics field), and the application of these approaches to the solution of actual business problems"
+  number: "BEM 392"
+  semester: "Spring 2024"
+  time: "M/W 12:30p-1:45p"
+  location: "Farrell Hall 108"
+  github: "https://github.com/bem-392-s24/website"
+  url: "https://bem-392-s24.github.io/website"
+  copyright_year: "2024"
+
+
+university:
+  name: Wake Forest University
+  url: "https://www.wfu.edu"
+
+school:
+  name: Department of Statistical Sciences
+  url: "https://stats.wfu.edu/"

@@ -1,0 +1,37 @@
+---
+title: "{{< var course.title >}}"
+subtitle: "{{< var course.subtitle >}}"
+title-block-banner: "img/head.jpg"
+toc: false
+sidebar: false
+---
+
+
+
+### Teaching team and office hours 
+
+<span></span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
+------------------|-------------------|------------------|------------------|------------------ 
+Instructor        | [{{< var instructor.name >}}]({{< var instructor.url >}}) | {{< var instructor.email >}}| [{{< var instructor.officehrs >}}]({{< var instructor.appointment_url >}}) | Manchester 342
+Instructor | Dr. Chris Smith | csmith@wfu.edu
+::: {.grid}
+::: {.g-col-12 .g-col-sm-6 .g-col-md-6}
+<br>
+
+# {{< fa university >}} {.icon}
+
+##### {{< var course.location >}} {.center}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-6}
+<br>
+
+# {{< fa calendar >}} {.icon}
+
+##### {{< var course.time >}}  {.center} 
+
+:::
+
+:::
+
+
